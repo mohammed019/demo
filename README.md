@@ -1,4 +1,4 @@
-# demo
+# My Skills
 This is my first demo repository.
 <br>
 Author Shradda Khapra.
